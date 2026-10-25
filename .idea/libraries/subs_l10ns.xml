@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="subs_l10ns">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/subs_l10ns.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
